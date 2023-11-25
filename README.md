@@ -10,5 +10,5 @@ TODO:
 - [ ] Mastodon
 - [ ] Bsky
 - [ ] Threads
-- [ ] Youtube Communit
+- [ ] Youtube Community
 - [ ] Discord
